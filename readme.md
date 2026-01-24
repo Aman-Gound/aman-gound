@@ -66,7 +66,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
- 
+ <a href="https://www.githubstatus.com/api/v2/status.json">
 </p>
 
 <p align="center">
