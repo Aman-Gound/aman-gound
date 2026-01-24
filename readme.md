@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | Full Stack Web Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+ 
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 💻 I’m a **MERN Stack Developer**
 - 🌱 Currently learning **Advanced React & Backend Optimization**
 - 🔥 Love building **full-stack web applications**
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **amangound726482@gmail.com**
 - ⚡ Fun fact: *I turn coffee ☕ into code*
 
 ---
@@ -66,11 +66,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+ 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+ 
 </p>
 
 ---
@@ -78,12 +78,10 @@
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/aman-gound-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://instagram.com/codenavigator" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-  </a>
+ 
 </p>
 
 ---
