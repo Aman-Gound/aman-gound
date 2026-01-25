@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">MERN Stack Developer | Full Stack Web Enthusiast</h3>
 
-<p align="center">
- 
-</p>
+<div align="center">
+  <img src="./assets/mernstack.png" width="400px" height="80px" alt="mern png">
+</div>
 
 ---
 
