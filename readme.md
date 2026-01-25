@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | Full Stack Web Enthusiast</h3>
 
 <div align="center">
-  <img src="./assets/mernstack.png" width="400px" height="80px" alt="mern png">
+  <img src="./assets/mernstack.png" width="400px" height="100px" alt="mern png">
 </div>
 
 ---
