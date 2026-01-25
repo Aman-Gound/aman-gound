@@ -48,33 +48,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-- 🔹 **Destination Reservation System**  
-  *Node.js, Express, MySQL, HTML, CSS, JS*
-
-- 🔹 **MERN Authentication App**  
-  *JWT, MongoDB, React, Node.js*
-
-- 🔹 **Full Stack Booking Website**  
-  *React + Express + MongoDB*
-
-👉 Check out my repositories for more!
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
- 
-</p>
-
-<p align="center">
- 
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p>
